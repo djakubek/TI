@@ -26,13 +26,4 @@ Ta sama tabelka w html'u:
 #### H4
 ##### H5
 ###### H6
-Co się tutaj dzieje?  
-*Co się tutaj dzieje?*
-**Co się tutaj dzieje?**
 
-[google nigga] (https://www.google.com)
-
-[logo]: http://fc07.deviantart.net/fs70/i/2010/206/c/d/Pixel_Mario_by_FinalGamers_2012.jpg "MARIO"
-
-Reference-style: 
-![alt text][logo]
